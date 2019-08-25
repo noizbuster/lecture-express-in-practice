@@ -1,0 +1,23 @@
+{
+  "name": "lecture-express-in-practice",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noizbuster/lecture-express-in-practice.git"
+  },
+  "author": "NoizBuster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noizbuster/lecture-express-in-practice/issues"
+  },
+  "homepage": "https://github.com/noizbuster/lecture-express-in-practice#readme",
+  "dependencies": {
+    "express": "^5.0.0-alpha.7"
+  }
+}
